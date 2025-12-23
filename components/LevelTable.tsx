@@ -1,4 +1,5 @@
 "use client";
+
 import { calculateScore } from "../lib/score";
 
 export default function LevelTable({ levels }: any) {
