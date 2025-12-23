@@ -1,5 +1,4 @@
 "use client";
-
 import LevelTable from "../components/LevelTable";
 
 const levels = [
@@ -17,4 +16,6 @@ export default function Home() {
       <LevelTable levels={levels} />
     </main>
   );
+}
+
 }
