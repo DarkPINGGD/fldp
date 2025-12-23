@@ -2,7 +2,7 @@ import "../globals.css";
 
 export const metadata = {
   title: "Extreme Demon List",
-  description: "Pointercrate-like Extreme Demon List Phase 1",
+  description: "Pointercrate‑like Extreme Demon List Phase 1",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
