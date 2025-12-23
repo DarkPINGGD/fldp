@@ -4,15 +4,7 @@ import { calculateScore } from "../lib/score";
 
 export default function LevelTable({ levels }: any) {
   return (
-    <table
-      className="pc-table"
-      style={{
-        width: "100%",
-        borderCollapse: "collapse",
-        fontSize: "22px",
-        textAlign: "center"
-      }}
-    >
+    <table className="pc-table">
       <thead>
         <tr>
           <th>#</th>
